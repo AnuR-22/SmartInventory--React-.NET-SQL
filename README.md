@@ -1,1 +1,0 @@
-# SmartInventory--React-.NET-SQL
