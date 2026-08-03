@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\bin"
+    "\\Dtos",
+    "\\Models",
+    "\\Properties",
+    "\\Repositories",
+    "\\Repositories\\Implementations",
+    "\\Repositories\\Interfaces",
+    "\\Services",
+    "\\Services\\Implementations",
+    "\\Services\\Interfaces"
   ],
   "PreviewInSolutionExplorer": false
 }
