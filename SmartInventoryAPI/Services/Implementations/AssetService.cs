@@ -17,7 +17,7 @@ namespace SmartInventoryAPI.Services.Implementations
         {
             _repository = repository;
             _mapper = mapper;
-            _baseUrl = config["AppSettings:BaseUrl"] ?? "https://localhost:5001";
+            _baseUrl = config["AppSettings:BaseUrl"] ?? "https://smartinventory-react-net-sql-1.onrender.com";
         }
 
         public async Task<List<AssetDto>> GetAllAsync(AssetFilterDto filter)
